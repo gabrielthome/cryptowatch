@@ -26,11 +26,11 @@
 
  Status 
 
-<<h4 align="center"> 
+<h4 align="center"> 
 	🚧  Cryptowatch 🚀 Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
