@@ -29,10 +29,10 @@ export default function App() {
       <Text style={styles.label}>Variation: {data.P}%</Text>
       <Text style={styles.label}>Volume: {data.v}</Text>
       
-      <Button
+     {/* <Button
         style={styles.button1}
         title="Press me"
-      />
+  /> */}
 
       <StatusBar style="auto" />
     </View>
@@ -49,6 +49,7 @@ const styles = StyleSheet.create({
   titulo: {
     textAlign: "center",
     margin: 10,
+    
     fontWeight: "bold",
     fontSize: 40
   },
